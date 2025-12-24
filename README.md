@@ -72,7 +72,7 @@ The dataset used in this project is the **Online Retail** dataset from the **UCI
 ## 3. Project Structure
 
 ```
-projexct 1/
+project/
 │
 ├── Online Retail.csv              # Source dataset (CSV file)
 ├── schema.sql                      # SQL schema definition for SQLite database
