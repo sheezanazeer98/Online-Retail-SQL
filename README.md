@@ -225,7 +225,7 @@ If Python is not installed, download from [python.org](https://www.python.org/do
 #### Step 2: Navigate to Project Directory
 
 ```bash
-cd "D:\mam\data\projexct 1"
+cd "project-name"
 ```
 
 #### Step 3: Install Python Dependencies
@@ -769,12 +769,9 @@ To use PostgreSQL, MySQL, or other databases:
 ## 13. Credits & References
 
 ### 13.1 Project Author
-
 **Sheeza Nazeer**  
-*Data Analyst | SQL & Python Specialist*
 
 ### 13.2 Dataset Citation
-
 **Chen, D.** (2015). *Online Retail* [Dataset]. UCI Machine Learning Repository.  
 DOI: [https://doi.org/10.24432/C5BW33](https://doi.org/10.24432/C5BW33)  
 Dataset URL: [https://archive.ics.uci.edu/dataset/352/online+retail](https://archive.ics.uci.edu/dataset/352/online+retail)
